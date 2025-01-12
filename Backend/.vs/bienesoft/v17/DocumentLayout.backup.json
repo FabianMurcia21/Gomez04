@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyecto Formativo\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62887389-4358-447D-9206-D373BD470CDF}|bienesoft\\bienesoft.csproj|c:\\proyecto formativo\\backend\\bienesoft\\controllers\\program.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62887389-4358-447D-9206-D373BD470CDF}|bienesoft\\bienesoft.csproj|solutionrelative:bienesoft\\controllers\\program.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62887389-4358-447D-9206-D373BD470CDF}|bienesoft\\bienesoft.csproj|c:\\proyecto formativo\\backend\\bienesoft\\services\\program.services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62887389-4358-447D-9206-D373BD470CDF}|bienesoft\\bienesoft.csproj|solutionrelative:bienesoft\\services\\program.services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62887389-4358-447D-9206-D373BD470CDF}|bienesoft\\bienesoft.csproj|c:\\proyecto formativo\\backend\\bienesoft\\models\\program.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62887389-4358-447D-9206-D373BD470CDF}|bienesoft\\bienesoft.csproj|solutionrelative:bienesoft\\models\\program.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62887389-4358-447D-9206-D373BD470CDF}|bienesoft\\bienesoft.csproj|c:\\proyecto formativo\\backend\\bienesoft\\controllers\\permissionfs.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62887389-4358-447D-9206-D373BD470CDF}|bienesoft\\bienesoft.csproj|solutionrelative:bienesoft\\controllers\\permissionfs.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62887389-4358-447D-9206-D373BD470CDF}|bienesoft\\bienesoft.csproj|c:\\proyecto formativo\\backend\\bienesoft\\services\\department.services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62887389-4358-447D-9206-D373BD470CDF}|bienesoft\\bienesoft.csproj|solutionrelative:bienesoft\\services\\department.services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62887389-4358-447D-9206-D373BD470CDF}|bienesoft\\bienesoft.csproj|c:\\proyecto formativo\\backend\\bienesoft\\models\\department.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62887389-4358-447D-9206-D373BD470CDF}|bienesoft\\bienesoft.csproj|solutionrelative:bienesoft\\models\\department.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62887389-4358-447D-9206-D373BD470CDF}|bienesoft\\bienesoft.csproj|c:\\proyecto formativo\\backend\\bienesoft\\models\\user.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62887389-4358-447D-9206-D373BD470CDF}|bienesoft\\bienesoft.csproj|solutionrelative:bienesoft\\models\\user.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62887389-4358-447D-9206-D373BD470CDF}|bienesoft\\bienesoft.csproj|c:\\proyecto formativo\\backend\\bienesoft\\models\\permissionfs.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62887389-4358-447D-9206-D373BD470CDF}|bienesoft\\bienesoft.csproj|solutionrelative:bienesoft\\models\\permissionfs.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62887389-4358-447D-9206-D373BD470CDF}|bienesoft\\bienesoft.csproj|c:\\proyecto formativo\\backend\\bienesoft\\models\\permission.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62887389-4358-447D-9206-D373BD470CDF}|bienesoft\\bienesoft.csproj|solutionrelative:bienesoft\\models\\permission.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62887389-4358-447D-9206-D373BD470CDF}|bienesoft\\bienesoft.csproj|c:\\proyecto formativo\\backend\\bienesoft\\models\\authorizationresponsible.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62887389-4358-447D-9206-D373BD470CDF}|bienesoft\\bienesoft.csproj|solutionrelative:bienesoft\\models\\authorizationresponsible.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62887389-4358-447D-9206-D373BD470CDF}|bienesoft\\bienesoft.csproj|c:\\proyecto formativo\\backend\\bienesoft\\models\\responsible.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62887389-4358-447D-9206-D373BD470CDF}|bienesoft\\bienesoft.csproj|solutionrelative:bienesoft\\models\\responsible.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62887389-4358-447D-9206-D373BD470CDF}|bienesoft\\bienesoft.csproj|c:\\proyecto formativo\\backend\\bienesoft\\models\\apprentice.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62887389-4358-447D-9206-D373BD470CDF}|bienesoft\\bienesoft.csproj|solutionrelative:bienesoft\\models\\apprentice.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.Services.cs",
+              "DocumentMoniker": "C:\\Proyecto Formativo\\Backend\\bienesoft\\Services\\Program.Services.cs",
+              "RelativeDocumentMoniker": "bienesoft\\Services\\Program.Services.cs",
+              "ToolTip": "C:\\Proyecto Formativo\\Backend\\bienesoft\\Services\\Program.Services.cs",
+              "RelativeToolTip": "bienesoft\\Services\\Program.Services.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:41:20.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.Model.cs",
+              "DocumentMoniker": "C:\\Proyecto Formativo\\Backend\\bienesoft\\Models\\Program.Model.cs",
+              "RelativeDocumentMoniker": "bienesoft\\Models\\Program.Model.cs",
+              "ToolTip": "C:\\Proyecto Formativo\\Backend\\bienesoft\\Models\\Program.Model.cs",
+              "RelativeToolTip": "bienesoft\\Models\\Program.Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:34:23.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.Controller.cs",
+              "DocumentMoniker": "C:\\Proyecto Formativo\\Backend\\bienesoft\\Controllers\\Program.Controller.cs",
+              "RelativeDocumentMoniker": "bienesoft\\Controllers\\Program.Controller.cs",
+              "ToolTip": "C:\\Proyecto Formativo\\Backend\\bienesoft\\Controllers\\Program.Controller.cs",
+              "RelativeToolTip": "bienesoft\\Controllers\\Program.Controller.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAqwFAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:33:32.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PermissionFS.Controller.cs",
+              "DocumentMoniker": "C:\\Proyecto Formativo\\Backend\\bienesoft\\Controllers\\PermissionFS.Controller.cs",
+              "RelativeDocumentMoniker": "bienesoft\\Controllers\\PermissionFS.Controller.cs",
+              "ToolTip": "C:\\Proyecto Formativo\\Backend\\bienesoft\\Controllers\\PermissionFS.Controller.cs",
+              "RelativeToolTip": "bienesoft\\Controllers\\PermissionFS.Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:33:31.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.Model.cs",
+              "DocumentMoniker": "C:\\Proyecto Formativo\\Backend\\bienesoft\\Models\\Department.Model.cs",
+              "RelativeDocumentMoniker": "bienesoft\\Models\\Department.Model.cs",
+              "ToolTip": "C:\\Proyecto Formativo\\Backend\\bienesoft\\Models\\Department.Model.cs",
+              "RelativeToolTip": "bienesoft\\Models\\Department.Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:00:05.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.Services.cs",
+              "DocumentMoniker": "C:\\Proyecto Formativo\\Backend\\bienesoft\\Services\\Department.Services.cs",
+              "RelativeDocumentMoniker": "bienesoft\\Services\\Department.Services.cs",
+              "ToolTip": "C:\\Proyecto Formativo\\Backend\\bienesoft\\Services\\Department.Services.cs",
+              "RelativeToolTip": "bienesoft\\Services\\Department.Services.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:58:33.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.Model.cs",
+              "DocumentMoniker": "C:\\Proyecto Formativo\\Backend\\bienesoft\\Models\\User.Model.cs",
+              "RelativeDocumentMoniker": "bienesoft\\Models\\User.Model.cs",
+              "ToolTip": "C:\\Proyecto Formativo\\Backend\\bienesoft\\Models\\User.Model.cs",
+              "RelativeToolTip": "bienesoft\\Models\\User.Model.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T02:41:02.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PermissionFS.Model.cs",
+              "DocumentMoniker": "C:\\Proyecto Formativo\\Backend\\bienesoft\\Models\\PermissionFS.Model.cs",
+              "RelativeDocumentMoniker": "bienesoft\\Models\\PermissionFS.Model.cs",
+              "ToolTip": "C:\\Proyecto Formativo\\Backend\\bienesoft\\Models\\PermissionFS.Model.cs",
+              "RelativeToolTip": "bienesoft\\Models\\PermissionFS.Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T02:10:29.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Permission.Model.cs",
+              "DocumentMoniker": "C:\\Proyecto Formativo\\Backend\\bienesoft\\Models\\Permission.Model.cs",
+              "RelativeDocumentMoniker": "bienesoft\\Models\\Permission.Model.cs",
+              "ToolTip": "C:\\Proyecto Formativo\\Backend\\bienesoft\\Models\\Permission.Model.cs",
+              "RelativeToolTip": "bienesoft\\Models\\Permission.Model.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwEYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T20:49:31.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthorizationResponsible.Model.cs",
+              "DocumentMoniker": "C:\\Proyecto Formativo\\Backend\\bienesoft\\Models\\AuthorizationResponsible.Model.cs",
+              "RelativeDocumentMoniker": "bienesoft\\Models\\AuthorizationResponsible.Model.cs",
+              "ToolTip": "C:\\Proyecto Formativo\\Backend\\bienesoft\\Models\\AuthorizationResponsible.Model.cs",
+              "RelativeToolTip": "bienesoft\\Models\\AuthorizationResponsible.Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T20:44:28.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Responsible.Model.cs",
+              "DocumentMoniker": "C:\\Proyecto Formativo\\Backend\\bienesoft\\Models\\Responsible.Model.cs",
+              "RelativeDocumentMoniker": "bienesoft\\Models\\Responsible.Model.cs",
+              "ToolTip": "C:\\Proyecto Formativo\\Backend\\bienesoft\\Models\\Responsible.Model.cs",
+              "RelativeToolTip": "bienesoft\\Models\\Responsible.Model.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:40:40.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Apprentice.Model.cs",
+              "DocumentMoniker": "C:\\Proyecto Formativo\\Backend\\bienesoft\\Models\\Apprentice.Model.cs",
+              "RelativeDocumentMoniker": "bienesoft\\Models\\Apprentice.Model.cs",
+              "ToolTip": "C:\\Proyecto Formativo\\Backend\\bienesoft\\Models\\Apprentice.Model.cs",
+              "RelativeToolTip": "bienesoft\\Models\\Apprentice.Model.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwv0AAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:37:06.597Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
